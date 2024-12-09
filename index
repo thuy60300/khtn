@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Học Tập</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="logo">Học Tập Online</div>
+        <nav>
+            <ul>
+                <li><a href="#home">Trang chủ</a></li>
+                <li><a href="#lessons">Bài học</a></li>
+                <li><a href="#support">Hỗ trợ</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h1>Chào mừng đến với Website Học Tập</h1>
+        <p>Khám phá kiến thức mới mỗi ngày!</p>
+    </section>
+
+    <section id="lessons">
+        <h2>Bài học</h2>
+        <div class="lesson-list">
+            <div class="lesson">
+                <h3>Bài học 1: Toán học cơ bản</h3>
+                <p>Lý thuyết và bài tập về số học.</p>
+            </div>
+            <div class="lesson">
+                <h3>Bài học 2: Khoa học tự nhiên</h3>
+                <p>Khám phá thế giới tự nhiên xung quanh.</p>
+            </div>
+            <div class="lesson">
+                <h3>Bài học 3: Tiếng Anh giao tiếp</h3>
+                <p>Luyện tập và cải thiện kỹ năng giao tiếp bằng tiếng Anh.</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="support">
+        <h2>Hỗ trợ</h2>
+        <p>Nếu bạn gặp khó khăn, hãy liên hệ chúng tôi:</p>
+        <ul>
+            <li>Email: support@hoctaponline.com</li>
+            <li>Điện thoại: 0123-456-789</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>© 2024 Học Tập Online. Mọi quyền được bảo lưu.</p>
+    </footer>
+</body>
+</html>
